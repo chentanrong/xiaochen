@@ -1,0 +1,10 @@
+.hide >div:nth-child(1){
+    display: none;
+}
+.hide >div:nth-child(2){
+    border-top: 1px solid #ccc !important;
+}
+
+.time {
+    font-size: 10px;
+}

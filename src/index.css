@@ -1,0 +1,14 @@
+@import "~antd/dist/antd.css";
+@import 'assets/iconfont/iconfont.css';
+@import 'global.css';
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.c-chart > div {
+  height: 100%;
+}
+.c-chart > div > div {
+  height: 100%;
+}
